@@ -1,0 +1,20 @@
+.header {
+  display: flex; /* Use Flexbox for horizontal alignment */
+  align-items: center; /* Vertically align items */
+  background-color: #000; /* Optional: Dark background for contrast */
+  padding: 10px 20px;
+  color: white; /* Text color */
+  border-bottom: 2px solid #444; /* Optional: Add a border for visual separation */
+}
+
+.header-logo {
+  max-width: 50px;
+  height: auto;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.header-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}

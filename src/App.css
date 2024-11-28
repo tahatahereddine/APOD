@@ -1,0 +1,12 @@
+.container {
+  display: flex; /* Enables flexbox */
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
+  min-height: 100vh; /* Full viewport height */
+  background-color: #f4f4f4; /* Optional: Add a background color */
+  text-align: center; /* Center-align text (optional) */
+  padding: 20px; /* Optional: Add padding for better spacing */
+  box-sizing: border-box; /* Include padding in dimensions */
+}
+
+
